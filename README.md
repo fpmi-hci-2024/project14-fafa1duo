@@ -8,8 +8,8 @@
 
 #  документация
 
-* [лабораторная работа 1] (https://docs.google.com/document/d/1_BUBUKk0lmiufG6PMXorJWAciBUjAcQssUlAnX8o52o/edit)
-* [Лабораторная работа 2] (https://docs.google.com/document/d/1_BUBUKk0lmiufG6PMXorJWAciBUjAcQssUlAnX8o52o/edit#heading=h.kamhoi968208)
+* [лабораторная работа 1] (https://docs.google.com/document/d/1wFypyI5dNXs7wJ5TwF1rZz4MIrmCgThMGA9goeoWtVc/edit?tab=t.0)
+* [Лабораторная работа 2] (https://docs.google.com/document/d/1_BUBUKk0lmiufG6PMXorJWAciBUjAcQssUlAnX8o52o/edit?tab=t.0#heading=h.j0t6k9evvrs8)
 
 # Installation
 
