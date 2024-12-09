@@ -13,6 +13,7 @@
 * [Лабораторная работа 3] (https://docs.google.com/document/d/1BqTUflhvOGlz3bOSUVuVbhrJYHKX9U0pwD8e6rR1l38/edit?tab=t.0) В отчете lab3 показана только часть контента, а полный контент находится в Wiki (Метод EventStorming, Моделирование событий, Модель C4)
 * [Лабораторная работа 4] (https://docs.google.com/document/d/1j_vWMs99lmj7VZDhVeLT99701ONeyTSUdlfPXJ-wNF4/edit?tab=t.0)
 * [Лабораторная работа 5] (https://docs.google.com/document/d/1w46xhKUhVktoRa6cwc0OLU1t43M9iH0RJTL3IGiNShU/edit?usp=sharing)
+* [Лабораторная работа 5] (https://docs.google.com/document/d/1goQDnWlp7UXaLtB7sjtqQvucW-aaGk4sORitvX-YEkg/edit?tab=t.0)
  
 # Installation
 
