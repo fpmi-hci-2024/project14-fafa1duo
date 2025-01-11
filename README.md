@@ -52,6 +52,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 * [Лабораторная работа 4] (https://docs.google.com/document/d/1j_vWMs99lmj7VZDhVeLT99701ONeyTSUdlfPXJ-wNF4/edit?tab=t.0)
 * [Лабораторная работа 5] (https://docs.google.com/document/d/1w46xhKUhVktoRa6cwc0OLU1t43M9iH0RJTL3IGiNShU/edit?usp=sharing)
 * [Лабораторная работа 6] (https://docs.google.com/document/d/1goQDnWlp7UXaLtB7sjtqQvucW-aaGk4sORitvX-YEkg/edit?tab=t.0)
+* [Лабораторная работа 7-9] (https://docs.google.com/document/d/1TBTY1JQRtqLGdxxzi_A3LaNQ7wNzFprPRtiElz_BoIk/edit?tab=t.0)
  
 # Installation
 
